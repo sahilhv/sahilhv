@@ -1,6 +1,11 @@
 ### Ohai peeps I'm SAHIL😼
 
 
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilhv&show_icons=true&theme=synthwave)
+
+
+
+
 ![](https://komarev.com/ghpvc/?username=sahilhv)
 <!--
 **sahilhv/sahilhv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +22,6 @@ Here are some ideas to get you started:
 -    ⁍ Github: Well your on it 😎
  ⚡ 😆
 
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilhv&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilhv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
