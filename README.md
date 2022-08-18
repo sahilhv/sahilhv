@@ -7,7 +7,6 @@
 
 - I’m currently working on **on my career** and learning **Python**
 
-- Connect with me **sahilahmed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
