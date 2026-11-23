@@ -7,6 +7,9 @@ Field Network Engineer working on 5G Fixed Wireless Access (FWA), RF signal opti
 - **Systems & Cloud:** Linux CLI, Bash, Docker, Kubernetes, Google Cloud Platform
 - **Web & Scripting:** Vanilla JS, HTML/CSS, Python, Cloudflare Pages
 
+**Projects**
+- **[AirFiberCalc](https://github.com/flashholicguy/AirFiberCalc)** — Android utility app for calculating AirFiber billing and plan charges ([Download APK](https://github.com/flashholicguy/AirFiberCalc/releases/latest))
+
 **Connect**
 - LinkedIn: [in/tbhsahilll](https://www.linkedin.com/in/tbhsahilll)
 - Email: sahilahmed698@gmail.com
